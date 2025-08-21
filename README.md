@@ -54,7 +54,7 @@ I enjoy building things that solve real problems, learning technologies that pus
 ## 📫 Contact Me
 
 - ✉️ Email: [mkysln4@gmail.com](mailto:mkysln4@gmail.com)  
-- 💼 LinkedIn: [Mümin KAYAASLAN]([https://www.linkedin.com/in/muhammed-emir-tohumcu-aa7296260](https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/))  
+- 💼 LinkedIn: [mumin-kayaaslan]([https://www.linkedin.com/in/muhammed-emir-tohumcu-aa7296260](https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/))  
 - 🌍 Web: [mkysln.github.io](https://mkysln.github.io)
 - 🛜 Instagram: [CoderMumin](https://www.instagram.com/codermumin/?igsh=MXZpNWQ5bDg2ZHExag%3D%3D#)
 ---
