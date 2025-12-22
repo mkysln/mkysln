@@ -47,7 +47,7 @@ I enjoy building things that solve real problems, learning technologies that pus
 - Create and publish apps on **Google Play Store**
 - Join or start a development team under the **Aslan Software Studio** identity  
 - Apply to internships or junior developer positions abroad in 2025  
-- Build `aslansoftwarestudio.dev` as a personal site and technical blog
+- Build `mkysln.github.io` as a personal site and technical blog
 
 ---
 
@@ -56,5 +56,5 @@ I enjoy building things that solve real problems, learning technologies that pus
 - ✉️ Email: [mkysln4@gmail.com](mailto:mkysln4@gmail.com)  
 - 💼 LinkedIn: [mumin-kayaaslan](https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/)  
 - 🌍 Web: [mkysln.github.io](https://mkysln.github.io)
-- 🛜 Instagram: [CoderMumin](https://www.instagram.com/codermumin/?igsh=MXZpNWQ5bDg2ZHExag%3D%3D#)
+- 🛜 Instagram: [CoderMumin](https://www.instagram.com/codermuminn/?igsh=MXZpNWQ5bDg2ZHExag%3D%3D#)
 ---
