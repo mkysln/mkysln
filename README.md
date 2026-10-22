@@ -1,61 +1,86 @@
-# 👋 Hey there, I'm **mkysln** (Mümin KAYAASLAN)
+# Hey, I'm Mümin Kayaaslan 👋
 
-I’m a computer engineering student and a passionate software developer who believes coding is a form of meaningful creation.  
-I enjoy building things that solve real problems, learning technologies that push me forward, and designing my own developer identity from the ground up.
+### Junior Software Developer | Computer Programmer
 
----
+I'm a software developer interested in building practical applications, backend systems, and AI-powered tools. I enjoy turning ideas into working software, exploring new technologies, and continuously improving my engineering skills through hands-on projects.
 
-## 🚀 What I'm Currently Working On
+My main focus is **software development, backend engineering, APIs, databases, and AI-powered applications**. I also have experience building web and cross-platform applications.
 
-- 📱 **React Native** – Developing Android & IOS mobile applications
-- 📱 **Jetpack Compose** –  Developing applications on the Android platform
-- 🧠 **Algorithms & Data Structures** – Practicing problem-solving with a focus on clean, efficient code
-- 🌐 **Git & GitHub** – Building a visible, structured portfolio for long-term career growth
-- 🧰 Learning industry best practices: version control, clean architecture, and documentation
-
----
-
-
-### 🛠️ Technologies & Tools
-
-| Language / Tech | Proficiency | Notes |
-|-----------------|-------------|-------|
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) | Proficient | Developing Android apps |
-| ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white) | Proficient | Building UI for Android |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | Intermediate | Version control with GitHub |
-| ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | Regular Use | Main code editor |
-| ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) | Proficient | IDE for Android development |
-| ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) | Proficient | IDE for Kotlin & Java projects |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Intermediate | Web & React development |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | Intermediate | Building web apps |
-| ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black) | Intermediate | Cross-platform mobile apps |
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | Beginner | Database integration |
-| ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Proficient | Backend services for apps |
-
-## 📚 Repositories to Watch
-
-- `My-Activities` – A cross-platform reminder & to-do list app built with **Kotlin Multiplatform** (works on Android & Desktop)  
-- `My-Calendar` – A public calendar library/module developed with **Jetpack Compose** for Android  
-- `ReactNative` – A project built while learning **React Native**
-- `algorithm-practice` – Organized, documented algorithm exercises (Python & C#)
+- 🔭 **Currently exploring:** AI development, automation, and intelligent tools
+- 💻 **Interested in:** Backend development, REST APIs, databases, and software architecture
+- 🌱 **Learning by building:** Practical projects and open-source software
+- 🎯 **Goal:** Build reliable, useful software and grow as a software engineer
+- 🌐 **Portfolio:** [mkysln.github.io](https://mkysln.github.io)
 
 ---
 
-## 🎯 My Goals
+## 🛠️ Tech Stack
 
-- Build and maintain a meaningful open-source portfolio  
-- Create and publish apps on **Google Play Store**
-- Join or start a development team under the **Aslan Software Studio** identity  
-- Apply to internships or junior developer positions abroad in 2025  
-- Build `mkysln.github.io` as a personal site and technical blog
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📫 Contact Me
+## 🚀 Selected Projects
 
-- ✉️ Email: [mkysln4@gmail.com](mailto:mkysln4@gmail.com)  
-- 💼 LinkedIn: [mumin-kayaaslan](https://www.linkedin.com/in/m%C3%BCmin-kayaaslan-173923256/)  
-- 🌍 Web: [mkysln.github.io](https://mkysln.github.io)
-- 🛜 Instagram: [CoderMumin](https://www.instagram.com/codermuminn/?igsh=MXZpNWQ5bDg2ZHExag%3D%3D#)
-- 🎒 Google Play Store: [Google Play Store](https://play.google.com/store/apps/dev?id=7675127310765523908&utm_source=emea_Med)
+Here are some of the projects I've made public on GitHub.
+
+| Project | Description |
+|---|---|
+| [Caffesist](https://github.com/mkysln/Caffesist) | A software project built with Kotlin. |
+| [CaffesistDesktop](https://github.com/mkysln/CaffesistDesktop) | A desktop-focused Kotlin project. |
+| [personalFinance](https://github.com/mkysln/personalFinance) | A personal finance software project. |
+| [mongobackend](https://github.com/mkysln/mongobackend) | A JavaScript backend project involving MongoDB. |
+| [My-Calendar](https://github.com/mkysln/My-Calendar) | A calendar library for Jetpack Compose. |
+
+For more projects, experiments, and source code, visit my [repositories](https://github.com/mkysln?tab=repositories).
+
 ---
+
+## 📚 What I'm Focused On
+
+- Building maintainable backend applications and RESTful APIs
+- Working with databases and data modeling
+- Exploring AI-powered applications, LLM integrations, and automation
+- Improving software architecture, code quality, and problem-solving
+- Developing projects that solve real-world problems
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkysln&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkysln&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-mkysln-181717?style=for-the-badge&logo=github)](https://github.com/mkysln)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mümin-kayaaslan-173923256/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mkysln.github.io)
+
+---
+
+*Always learning, always building.* 🚀
